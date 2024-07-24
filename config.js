@@ -10,7 +10,7 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+44519773474", "+44519773474"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+44519773474", "+44519773474"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+44519773474"];
+global.OwnerName = "SPIDERMAN";
+global.BotName = "SPIDERMAN";
+global.packname = "🦋 SPIDER MAN 🦋";                             //Do not change.
+global.author = "SPIDERMAN";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -41,12 +41,12 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "SPIDERMAN, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "SPIDERMAN";
 
 
 //
